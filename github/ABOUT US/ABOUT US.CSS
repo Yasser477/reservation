@@ -1,0 +1,154 @@
+*{
+    margin: 00px;
+    padding: 00px;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url(ASSETS/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+#headerimg {
+
+
+    position: absolute;
+    width: 100%;
+    height: 700px;
+    left: -3px;
+    top: -221px;
+
+}
+
+#abtus{
+    position: absolute;
+width: 250px;
+height: 58px;
+left: 895px;
+top: 39px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+
+
+color: #FFFFFF;
+}
+
+
+#abtus2{
+    position: absolute;
+    width: 376px;
+    height: 16px;
+    left: 864px;
+    top: 159px;  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+
+#pnt{
+    font-weight: 700;
+}
+
+#our{
+    position: absolute;
+    width: 98px;
+    height: 21px;
+    left: 78px;
+    top: 544px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+    color: #000000;
+}
+
+#hq{
+    position: absolute;
+    width: 348px;
+    height: 54px;
+    left: 78px;
+    top: 573px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #4E627A;
+}
+
+#firstp{
+    position: absolute;
+    width: 956px;
+    height: 121px;
+    left: 233px;
+    top: 721px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    color: #585858;
+}
+
+#imgm{
+    position: absolute;
+    width: 714px;
+    height: 313px;
+    left: 363px;
+    top: 1196px;
+}
+
+#painter{
+    position: absolute;
+    width: 350px;
+    height: 900px;
+    left: 13px;
+    top: 1397px;
+}
+
+#secondp{
+    position: absolute;
+    width: 572px;
+    height: 278px;
+    left: 600px;
+    top: 1722px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 26px;
+    color: #585858;
+}
+
+#footer{
+    width: 100%;
+    height:20.14px;
+    position: absolute;
+    top: 2297px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    background: #CA9C92;
+    border-radius: 0px;
+}
+
+#copy{
+    position: absolute;
+    width: 335px;
+    height: 19px;
+    left: 572px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
